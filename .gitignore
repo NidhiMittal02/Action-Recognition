@@ -1,0 +1,13 @@
+# Ignore all data
+data/*
+
+# Allow test_samples folder
+!data/test_samples/
+!data/test_samples/**
+
+# Ignore large model files
+*.pth
+*.pkl
+
+# BUT allow test sample pkl files
+!data/test_samples/*.pkl
