@@ -118,7 +118,7 @@ best_model.pth
 # ▶️ Run Streamlit Dashboard
 
 ```bash
-streamlit run app.py
+https://nidhimittal02-action-recognition-app-64o05y.streamlit.app/
 ```
 
 ---
